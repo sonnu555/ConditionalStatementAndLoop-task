@@ -1,7 +1,7 @@
 This project contains solutions to **50 JavaScript conditional statements** and **19 loop-based problems**. It's a great resource for beginners who want to strengthen their understanding of
 decision-making and iteration in JavaScript.
 50 Conditional Statement Problems
-This section includes JavaScript code examples that use `if`, `else if`, `else`, `switch`, and ternary (`? :`) operators.
+This section includes JavaScript code examples that use `if`, `else if`, `else`,  and operators.
 
 Each problem tests your understanding of:
 - Comparison operators (`==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`)
